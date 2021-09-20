@@ -1,4 +1,4 @@
-# BootCamp Equipe2
+# Projeto proffy
 
 A criação do sistema tem como finalidade aprender mais sobre tecnologias Web (Front e back end) e foi utilizado a Semana Next Level Week #2 da RocketSeat como base de aprendizado. 
 
