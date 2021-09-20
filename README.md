@@ -63,9 +63,7 @@ npm run dev
 <br>
 <hr>
 
-## ✒️ Grupo
+## ✒️ Criado por
 
 * **Gabriel Gusmão**  [Linkedin](https://www.linkedin.com/in/gabriel-gusm%C3%A3o-moreno-034113199/)
-* **Tatiana** 
-* **Talyson** 
-* **Camila Carvalho**[Linkedin](https://www.linkedin.com/in/camila-carvalho-a15768206/)
+
