@@ -4,6 +4,7 @@ A criação do sistema tem como finalidade aprender mais sobre tecnologias Web (
 
 <h2 align="center">
     <img alt="imagem da pagina inicial do sistema proffy" title="Readme" src="./gitgif/gifPagina.gif">
+    ![gifPagina](https://github.com/GabrielGM01/Next-Level-Week-2-Proffy_Project/assets/59850618/b4e382d5-a1a4-4c95-a0ab-5fa274c1aba4)
 </h2>
 <hr>
 <br>
